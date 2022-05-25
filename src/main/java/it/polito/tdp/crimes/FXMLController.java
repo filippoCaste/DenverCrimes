@@ -65,5 +65,7 @@ public class FXMLController {
     
     public void setModel(Model model) {
     	this.model = model;
+    	
+    	// TODO riempimento delle varie tendine
     }
 }
